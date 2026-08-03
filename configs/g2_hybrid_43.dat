@@ -1,0 +1,5 @@
+HPCG benchmark input file (组2 混合: 4进程x3线程, local 48x48x96, P=2x2x1)
+Sandia National Laboratories; University of Tennessee, Knoxville
+48 48 96
+60
+2 2 1

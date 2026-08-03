@@ -1,0 +1,4 @@
+config,mpi_procs,omp_threads,global_nx,global_ny,global_nz,runtime_sec,gflops,valid
+g1_pure_mpi,12,1,96,96,96,66.25,3.62,VALID
+g2_hybrid_43,4,3,96,96,96,64.20,2.25,VALID
+g3_pure_omp,1,12,96,96,96,74.17,1.08,VALID

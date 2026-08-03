@@ -1,0 +1,5 @@
+HPCG benchmark input file (组1 纯MPI: 12进程x1线程, local 32x48x48, P=3x2x2)
+Sandia National Laboratories; University of Tennessee, Knoxville
+32 48 48
+60
+3 2 2
