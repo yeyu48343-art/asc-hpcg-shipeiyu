@@ -1,0 +1,6 @@
+build,flags,config,gflops,status
+original,(no flags ~O0),pure-mpi-12x1,3.62,VALID
+o3,-O3,pure-mpi-12x1,4.36,VALID
+o3native,-O3 -march=native,pure-mpi-12x1,2.10,VALID
+o3native_novec,-O3 -march=native -fno-tree-vectorize,pure-mpi-12x1,5.33,VALID
+o3native_novec,-O3 -march=native -fno-tree-vectorize,pure-omp-1x12,1.61,VALID
